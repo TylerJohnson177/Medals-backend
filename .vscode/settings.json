@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/f3d94e89-00e0-4691-8a12-240c3ecd20b6/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/olympic-medals-tjj2"
+}
